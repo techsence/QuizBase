@@ -1,2 +1,0 @@
-# QuizBase
-QuizBase
