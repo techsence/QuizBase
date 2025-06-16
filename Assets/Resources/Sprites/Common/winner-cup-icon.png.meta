@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      winner-cup-icon_0: 145380777290045658
+      winner-cup-icon_1: -8167632414464854773
+      winner-cup-icon_2: -5183549716819404128
+      winner-cup-icon_3: 2947290218207064227
+      winner-cup-icon_4: 1669989962831070572
+      winner-cup-icon_5: -3514258883519972015
+      winner-cup-icon_6: 8179321663319402939
+      winner-cup-icon_7: 6488634212329505868
+      winner-cup-icon_8: -7878976465147036282
+      winner-cup-icon_9: -5458837380904319326
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
